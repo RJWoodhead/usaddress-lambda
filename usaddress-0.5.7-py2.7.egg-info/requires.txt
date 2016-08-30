@@ -1,0 +1,4 @@
+python-crfsuite>=0.7
+future
+probableparsing
+metafone
